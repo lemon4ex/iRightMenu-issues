@@ -1,6 +1,6 @@
-#iRightMenu-issues
+# iRightMenu-issues
 
-[iRightMenu](https://github.com/lemon4ex/iRightMenu-issues/blob/main/icon.png)
+![iRightMenu](https://github.com/lemon4ex/iRightMenu-issues/blob/main/icon.png)
 
 [中文](https://github.com/lemon4ex/iRightMenu-issues/blob/main/README_CN.md)
 
