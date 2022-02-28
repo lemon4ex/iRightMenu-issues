@@ -17,7 +17,7 @@ If you encounter the following situations while using iRightMenu, you can open a
 - 💡 There are features that need to be optimized and improved
 - 🎁 There are good features to be added
 
-# Submit a question
+# When opening a bug report
 
 In order to speed up the reproduction and repair of the problem, please bring the following information with you when encountering a crash or bug:
 
