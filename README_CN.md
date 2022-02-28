@@ -1,6 +1,6 @@
 # iRightMenu-issues
 
-![iRightMenu](https://github.com/lemon4ex/iRightMenu-issues/blob/main/icon.png)
+<img width="100" height="100" src="https://github.com/lemon4ex/iRightMenu-issues/blob/main/icon.png" alt="iRightMenu">
 
 [English](https://github.com/lemon4ex/iRightMenu-issues/blob/main/README.md)
 
