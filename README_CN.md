@@ -8,8 +8,7 @@
 
 [iRightMenu](https://apps.apple.com/cn/app/irightmenu-%E5%8F%B3%E9%94%AE%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E8%8F%9C%E5%8D%95/id1542347829?mt=12) 是 macOS 上一款免费且实用的右键菜单工具。
 
-> 🎉 [iRightMenu 专业版](https://byteage.com/products/iRightMenu) 已经发布，支持编写脚本并添加到右键菜单等等更多功能，速度更快，拓展更灵活，更适合专业人员。
-> 想了解详细的功能特性，请访问 https://byteage.com/products/iRightMenu 。
+> 🎉 [iRightMenu 专业版](https://byteage.com/store/24.html) 已经发布，支持编写脚本并添加到右键菜单等等更多功能，速度更快，拓展更灵活，更适合专业人员。
 
 如果在使用 iRightMenu 过程中遇到以下情况，可以在本仓库上方打开新的问题：
 
