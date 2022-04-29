@@ -8,7 +8,7 @@ This repository is dedicated to collecting user feedback issues and bugs for iRi
 
 [iRightMenu](https://apps.apple.com/cn/app/irightmenu-%E5%8F%B3%E9%94%AE%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E8%8F%9C%E5%8D%95/id1542347829?mt=12) is a free and useful right-click menu tool on macOS.
 
-> 🎉 [iRightMenu Pro](https://byteage.com/store/24.html) has been released, supports scripting and adding to the right-click menu and more functions, faster, more flexible expansion, more suitable for professionals.
+> 🎉 [iRightMenu Pro](https://byteage.com/store/24.html?from=github) has been released, supports scripting and adding to the right-click menu and more functions, faster, more flexible expansion, more suitable for professionals.
 
 If you encounter the following situations while using iRightMenu, you can open a new issue above this repository:
 
